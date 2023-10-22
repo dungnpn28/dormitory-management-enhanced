@@ -1,6 +1,6 @@
 # FPTU Dormitory Management System
 
-## An upgraded version of the old Dormitory Management System
+An upgraded version of the old Dormitory Management System
 
 ## My intentions:
 
